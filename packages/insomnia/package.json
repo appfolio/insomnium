@@ -73,7 +73,7 @@
     "js-yaml": "^3.14.1",
     "jshint": "^2.13.6",
     "jsonlint-mod-fixed": "1.7.7",
-    "jsonpath-plus": "^6.0.1",
+    "jsonpath-plus": "^10.0.7",
     "lodash": "^4.17.21",
     "marked": "^5.1.1",
     "mime-types": "^2.1.35",
